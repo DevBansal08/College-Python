@@ -10,3 +10,4 @@ else:
         print(f"{num} is divisible by 5 but not by 3.")
     else:
         print(f"{num} is not divisible by both 3 and 5.")
+

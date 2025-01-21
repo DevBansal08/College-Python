@@ -1,4 +1,3 @@
-
 name = input("Enter student's name: ")
 roll_number = input("Enter roll number: ")
 sapid = input("Enter SAPID: ")
