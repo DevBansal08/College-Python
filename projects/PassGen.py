@@ -26,3 +26,4 @@ if __name__ == "__main__":
     pwd = gen_pass(12)
     print(f"Generated password: {pwd}")
 
+#fmflmfs,;fk[kf[[wf]]]
